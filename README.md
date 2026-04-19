@@ -1,2 +1,18 @@
 # optimus-switch
-Bash scripts for switching between NVIDIA and hybrid graphics on X11. 
+> [!NOTE]
+> These scripts will only work for KDE Plasma.
+
+Make scripts executable:
+```
+chmod +x nvidia.sh
+```
+```
+chmod +x hybrid.sh
+```
+Run:
+```
+./nvidia.sh
+```
+```
+./hybrid.sh
+```
